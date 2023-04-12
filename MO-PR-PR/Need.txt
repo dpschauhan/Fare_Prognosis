@@ -1,0 +1,9 @@
+1- Build ML model
+2- Deploy using flask
+
+Files to be created
+1- model.py (ml model)
+2-model.pkl (pickle file of ml model)
+3- app.py (flask)
+4- Index.html (folder template me)
+5- Cellphone.csv (data)

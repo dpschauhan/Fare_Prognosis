@@ -1,0 +1,6 @@
+import re
+str1="My name is maxuimums and my salay is 1000$"
+print("Str1 length :",len(str1))
+result=re.fullmatch(r".{42}",str1)
+print(result)
+print("Match :",result.group())
